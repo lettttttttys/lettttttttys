@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Let
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning html, css and JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me in my twitter account
 
 <!---
