@@ -1,7 +1,7 @@
-• Lettys, Let, Tys e variações;
-• Desejo aprender sobre física computacional;
-• Também me interesso por literatura e dança;
-• Objetivo: Física Bacharelado USP/UNICAMP
+- Lettys, Let, Tys e variações
+- Desejo aprender sobre física computacional
+- Também me interesso por literatura e dança
+- Objetivo: Física Bacharelado USP/UNICAMP
 
 <!---
 lettttttttys/lettttttttys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
