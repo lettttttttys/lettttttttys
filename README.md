@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Let
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning html, css and JavaScript
-- 📫 You can reach me in my twitter account
+• Lettys, Let, Tys e variações;
+• Desejo aprender sobre física computacional;
+• Também me interesso por literatura e dança;
+• Objetivo: Física Bacharelado USP/UNICAMP
 
 <!---
 lettttttttys/lettttttttys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
